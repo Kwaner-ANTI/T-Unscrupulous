@@ -2039,6 +2039,27 @@
       "correctionNotice": "",
       "withdrawalNotice": "",
       "mood": null
+    },
+    {
+      "id": "event-2d1f4137-c8a9-4efc-9f80-e87fafc0b813",
+      "status": "published",
+      "order": 490,
+      "title": "死妈野人-tb546725",
+      "accounts": [],
+      "devices": [],
+      "eventDate": "0026-11-06",
+      "summary": "",
+      "narrative": "在闲鱼上张嘴就辱骂吧友后，撤回消息，但被吧友再次点举报后发现",
+      "listingPrice": "",
+      "transactionPrice": "",
+      "materials": [],
+      "responses": [],
+      "updates": [],
+      "currentStatus": "",
+      "updatedAt": "2026-11-06",
+      "correctionNotice": "",
+      "withdrawalNotice": "",
+      "mood": null
     }
   ]
 }
